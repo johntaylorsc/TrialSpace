@@ -3,3 +3,5 @@ Some text.
 This is branch 1.
 
 This is a change. 
+
+This is a change on branch-2
